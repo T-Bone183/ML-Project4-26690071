@@ -1,0 +1,5 @@
+criterion=INFO_GAIN
+maxFeatures=21
+minSamplesLeaf=5
+classWeight=balanced
+nTrees=300

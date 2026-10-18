@@ -1,0 +1,4 @@
+criterion=INFO_GAIN
+minSamplesLeaf=1
+classWeight=none
+prune=false
